@@ -18,9 +18,9 @@ Algorithm for calculating number of people wearing mask and not wearing mask.
 
 ## Prerequisites
 
-Download yolov5 weights from 
+Download yolov5 weights from [here](https://github.com/ultralytics/yolov5) 
 
-Download DeepSort weights from here and place ckpt.t7 file under pytorch_deep_sort/deep_sort/deep/checkpoint/
+Download DeepSort weights from [here](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb7UNnn_riXi6) and place ckpt.t7 file under pytorch_deep_sort/deep_sort/deep/checkpoint/
 
 ## Execution
 
