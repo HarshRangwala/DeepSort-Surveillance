@@ -32,5 +32,5 @@ Download DeepSort weights from [here](https://drive.google.com/drive/folders/1xh
 
 To run the main algorithm. Execute the command:
 
-``` python PersonCounter.py --source <VIDEO_FILENAME> --device 0 --weights yolov5/weights/yolov5s.pt ```
+``` python PersonCounter.py --source <VIDEO_FILENAME> --device 0 --weights yolov5/weights/<WEIGHT_FILENAME> ```
 
